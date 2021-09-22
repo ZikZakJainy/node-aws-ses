@@ -1,0 +1,9 @@
+{
+    "AWS": {
+      "accessKeyId":"AWS_ACCESS_KEY",
+      "secretAccessKey":"AWS_SECRET_ACCESS_KEY",
+      "region":"AWS_REGION",
+      "SenderEmailId":"VERIFIED_EMAIL_ID"
+    },
+    "port": 3500
+  }
